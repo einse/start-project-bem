@@ -1,0 +1,15 @@
+.hello
+{
+	color: green;
+	padding: 10%;
+}
+
+.hello__greeting
+{
+	margin-bottom: 12px;
+}
+
+.hello__input
+{
+	margin-right: 12px;
+}
